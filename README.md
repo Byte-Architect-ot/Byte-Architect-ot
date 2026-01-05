@@ -4,7 +4,7 @@
 
   # Hi there, I'm Shreyashh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-  ### 👨‍💻 Struck In Full-Stack | ⚡ CP Break;
+  ### 👨‍💻 Stuck In Full-Stack | ⚡ CP Break;
 
   <a href="https://linkedin.com/in/shreyash-olambe"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/shreyas_hh14"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
