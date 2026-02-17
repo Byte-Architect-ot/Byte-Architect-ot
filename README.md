@@ -38,13 +38,5 @@
   <br>
 
   ---
-
-  ### 🏆 Coding Profiles
-
-  | Codeforces | LeetCode |
-  | :---: | :---: |
-  | <img src="https://codeforces-readme-stats.vercel.app/api/card?username=olambeshreyash&theme=radical&disable_animations=true" width="500"> | <img src="https://leetcard.jacoblin.cool/shreyashh144?theme=radical&font=Ubuntu" width="500"> |
-
-  <br>
   <img src="https://komarev.com/ghpvc/?username=Byte-Architect-ot&color=red"/>
 </div>
